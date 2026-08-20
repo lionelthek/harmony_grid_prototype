@@ -1,0 +1,1092 @@
+{
+  "source_file": "/Users/lionelhubert/Desktop/Intro_paradisio_premaster.wav",
+  "duration": 66.35219954648527,
+  "analysis": {
+    "tempo": 161.4990234375,
+    "meter": "4/4",
+    "key_guess": "F minor"
+  },
+  "chord_segments": [
+    {
+      "start": 0.0,
+      "end": 2.8792743764172335,
+      "symbol": "Fmaj7",
+      "confidence": 0.4250355210731641
+    },
+    {
+      "start": 2.8792743764172335,
+      "end": 4.73687074829932,
+      "symbol": "Fadd9",
+      "confidence": 0.4380116818802273
+    },
+    {
+      "start": 4.73687074829932,
+      "end": 7.430385487528345,
+      "symbol": "Cmaj7",
+      "confidence": 0.46562708271498504
+    },
+    {
+      "start": 7.430385487528345,
+      "end": 9.380861678004536,
+      "symbol": "Fm",
+      "confidence": 0.47163057562856925
+    },
+    {
+      "start": 9.380861678004536,
+      "end": 11.517097505668934,
+      "symbol": "Ebsus4",
+      "confidence": 0.4219980830229688
+    },
+    {
+      "start": 11.517097505668934,
+      "end": 12.07437641723356,
+      "symbol": "Ebsus4",
+      "confidence": 0.42762912478400383
+    },
+    {
+      "start": 12.07437641723356,
+      "end": 12.72453514739229,
+      "symbol": "Cm7",
+      "confidence": 0.46022289555909135
+    },
+    {
+      "start": 12.72453514739229,
+      "end": 13.653333333333334,
+      "symbol": "Ebsus4",
+      "confidence": 0.45848037656459745
+    },
+    {
+      "start": 13.653333333333334,
+      "end": 14.953650793650795,
+      "symbol": "Fm",
+      "confidence": 0.45367235664979283
+    },
+    {
+      "start": 14.953650793650795,
+      "end": 16.99700680272109,
+      "symbol": "Cmaj7",
+      "confidence": 0.42625265551032704
+    },
+    {
+      "start": 16.99700680272109,
+      "end": 18.668843537414965,
+      "symbol": "C#maj7",
+      "confidence": 0.36007048146256676
+    },
+    {
+      "start": 18.668843537414965,
+      "end": 19.13324263038549,
+      "symbol": "Am7b5",
+      "confidence": 0.38292046502735066
+    },
+    {
+      "start": 19.13324263038549,
+      "end": 19.969160997732427,
+      "symbol": "C7",
+      "confidence": 0.4284019874872024
+    },
+    {
+      "start": 19.969160997732427,
+      "end": 22.19827664399093,
+      "symbol": "Cadd9",
+      "confidence": 0.37555283522337934
+    },
+    {
+      "start": 22.19827664399093,
+      "end": 22.941315192743765,
+      "symbol": "Cm7",
+      "confidence": 0.4203165698223512
+    },
+    {
+      "start": 22.941315192743765,
+      "end": 24.14875283446712,
+      "symbol": "C#maj7",
+      "confidence": 0.3891099939609086
+    },
+    {
+      "start": 24.14875283446712,
+      "end": 25.356190476190477,
+      "symbol": "Am7b5",
+      "confidence": 0.4061888380778653
+    },
+    {
+      "start": 25.356190476190477,
+      "end": 26.09922902494331,
+      "symbol": "C#maj7",
+      "confidence": 0.40839827880584667
+    },
+    {
+      "start": 26.09922902494331,
+      "end": 26.93514739229025,
+      "symbol": "Fsus4",
+      "confidence": 0.43554790669650617
+    },
+    {
+      "start": 26.93514739229025,
+      "end": 27.492426303854874,
+      "symbol": "C#maj7",
+      "confidence": 0.38148808166383125
+    },
+    {
+      "start": 27.492426303854874,
+      "end": 28.328344671201815,
+      "symbol": "C7",
+      "confidence": 0.40866704968732614
+    },
+    {
+      "start": 28.328344671201815,
+      "end": 29.628662131519274,
+      "symbol": "Cmaj7",
+      "confidence": 0.41843686809597935
+    },
+    {
+      "start": 29.628662131519274,
+      "end": 30.278820861678003,
+      "symbol": "Cmaj7",
+      "confidence": 0.4034769307952442
+    },
+    {
+      "start": 30.278820861678003,
+      "end": 31.950657596371883,
+      "symbol": "C7",
+      "confidence": 0.3910096636993152
+    },
+    {
+      "start": 31.950657596371883,
+      "end": 32.78657596371882,
+      "symbol": "Cmaj7",
+      "confidence": 0.4081477311089471
+    },
+    {
+      "start": 32.78657596371882,
+      "end": 33.34385487528345,
+      "symbol": "Cadd9",
+      "confidence": 0.3825854998980304
+    },
+    {
+      "start": 33.34385487528345,
+      "end": 34.4584126984127,
+      "symbol": "Fmaj7",
+      "confidence": 0.4513573627152003
+    },
+    {
+      "start": 34.4584126984127,
+      "end": 35.944489795918365,
+      "symbol": "Fm7",
+      "confidence": 0.4474188342364478
+    },
+    {
+      "start": 35.944489795918365,
+      "end": 37.89496598639456,
+      "symbol": "Fm7",
+      "confidence": 0.4388796698124705
+    },
+    {
+      "start": 37.89496598639456,
+      "end": 38.730884353741494,
+      "symbol": "Cmaj7",
+      "confidence": 0.42796617012831256
+    },
+    {
+      "start": 38.730884353741494,
+      "end": 39.19528344671202,
+      "symbol": "Abadd9",
+      "confidence": 0.4365620585313598
+    },
+    {
+      "start": 39.19528344671202,
+      "end": 40.03120181405896,
+      "symbol": "C#maj7",
+      "confidence": 0.3710637257560678
+    },
+    {
+      "start": 40.03120181405896,
+      "end": 40.68136054421769,
+      "symbol": "Cmaj7",
+      "confidence": 0.4181320750259319
+    },
+    {
+      "start": 40.68136054421769,
+      "end": 41.424399092970525,
+      "symbol": "Fm",
+      "confidence": 0.4667675541878409
+    },
+    {
+      "start": 41.424399092970525,
+      "end": 41.88879818594104,
+      "symbol": "Fm7",
+      "confidence": 0.45053027901457743
+    },
+    {
+      "start": 41.88879818594104,
+      "end": 42.53895691609977,
+      "symbol": "C#maj7",
+      "confidence": 0.35943911713380106
+    },
+    {
+      "start": 42.53895691609977,
+      "end": 43.0962358276644,
+      "symbol": "Cmaj7",
+      "confidence": 0.40818695223043644
+    },
+    {
+      "start": 43.0962358276644,
+      "end": 44.210793650793654,
+      "symbol": "Fm",
+      "confidence": 0.4184701812868127
+    },
+    {
+      "start": 44.210793650793654,
+      "end": 45.41823129251701,
+      "symbol": "C#maj7",
+      "confidence": 0.3799512780748645
+    },
+    {
+      "start": 45.41823129251701,
+      "end": 47.368707482993194,
+      "symbol": "Fadd9",
+      "confidence": 0.4541250036235094
+    },
+    {
+      "start": 47.368707482993194,
+      "end": 48.39038548752834,
+      "symbol": "Fm7",
+      "confidence": 0.4212648745810028
+    },
+    {
+      "start": 48.39038548752834,
+      "end": 49.412063492063496,
+      "symbol": "Am7b5",
+      "confidence": 0.4000470804568426
+    },
+    {
+      "start": 49.412063492063496,
+      "end": 50.062222222222225,
+      "symbol": "Fm",
+      "confidence": 0.4641890505490552
+    },
+    {
+      "start": 50.062222222222225,
+      "end": 50.991020408163266,
+      "symbol": "Cmaj7",
+      "confidence": 0.45442710695267463
+    },
+    {
+      "start": 50.991020408163266,
+      "end": 51.45541950113379,
+      "symbol": "Cadd9",
+      "confidence": 0.3776856244769398
+    },
+    {
+      "start": 51.45541950113379,
+      "end": 52.10557823129252,
+      "symbol": "C#maj7",
+      "confidence": 0.36132725785572817
+    },
+    {
+      "start": 52.10557823129252,
+      "end": 52.75573696145125,
+      "symbol": "Fm7",
+      "confidence": 0.39845497704957866
+    },
+    {
+      "start": 52.75573696145125,
+      "end": 54.706213151927436,
+      "symbol": "C#maj7",
+      "confidence": 0.3617018505279783
+    },
+    {
+      "start": 54.706213151927436,
+      "end": 57.02820861678005,
+      "symbol": "Fm",
+      "confidence": 0.4572284867058305
+    },
+    {
+      "start": 57.02820861678005,
+      "end": 57.67836734693878,
+      "symbol": "C#maj7",
+      "confidence": 0.3557961691892924
+    },
+    {
+      "start": 57.67836734693878,
+      "end": 58.142766439909295,
+      "symbol": "Fm7",
+      "confidence": 0.43909917344808164
+    },
+    {
+      "start": 58.142766439909295,
+      "end": 59.628843537414966,
+      "symbol": "Fm",
+      "confidence": 0.4186526270423386
+    },
+    {
+      "start": 59.628843537414966,
+      "end": 60.3718820861678,
+      "symbol": "Fm7",
+      "confidence": 0.3968602901626606
+    },
+    {
+      "start": 60.3718820861678,
+      "end": 61.765079365079366,
+      "symbol": "Fm",
+      "confidence": 0.4513262092774596
+    },
+    {
+      "start": 61.765079365079366,
+      "end": 66.35219954648527,
+      "symbol": "Cmaj7",
+      "confidence": 0.38656342289454576
+    }
+  ],
+  "grid": [
+    {
+      "measure": 1,
+      "start": 0.37151927437641724,
+      "end": 1.8575963718820863,
+      "chords": [
+        {
+          "symbol": "Fmaj7",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.4250355210731641
+        }
+      ]
+    },
+    {
+      "measure": 2,
+      "start": 1.8575963718820863,
+      "end": 3.3436734693877552,
+      "chords": [
+        {
+          "symbol": "Fmaj7",
+          "beat_start": 1,
+          "beat_duration": 3,
+          "confidence": 0.42503552107316417
+        },
+        {
+          "symbol": "Fadd9",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.4380116818802273
+        }
+      ]
+    },
+    {
+      "measure": 3,
+      "start": 3.3436734693877552,
+      "end": 4.829750566893424,
+      "chords": [
+        {
+          "symbol": "Fadd9",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.4380116818802273
+        }
+      ]
+    },
+    {
+      "measure": 4,
+      "start": 4.829750566893424,
+      "end": 6.315827664399093,
+      "chords": [
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.46562708271498504
+        }
+      ]
+    },
+    {
+      "measure": 5,
+      "start": 6.315827664399093,
+      "end": 7.801904761904762,
+      "chords": [
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 1,
+          "beat_duration": 3,
+          "confidence": 0.46562708271498504
+        },
+        {
+          "symbol": "Fm",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.47163057562856925
+        }
+      ]
+    },
+    {
+      "measure": 6,
+      "start": 7.801904761904762,
+      "end": 9.287981859410431,
+      "chords": [
+        {
+          "symbol": "Fm",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.47163057562856925
+        }
+      ]
+    },
+    {
+      "measure": 7,
+      "start": 9.287981859410431,
+      "end": 10.7740589569161,
+      "chords": [
+        {
+          "symbol": "Ebsus4",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.4219980830229688
+        }
+      ]
+    },
+    {
+      "measure": 8,
+      "start": 10.7740589569161,
+      "end": 12.26013605442177,
+      "chords": [
+        {
+          "symbol": "Ebsus4",
+          "beat_start": 1,
+          "beat_duration": 3,
+          "confidence": 0.4238750969433138
+        },
+        {
+          "symbol": "Cm7",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.46022289555909135
+        }
+      ]
+    },
+    {
+      "measure": 9,
+      "start": 12.26013605442177,
+      "end": 13.746213151927437,
+      "chords": [
+        {
+          "symbol": "Cm7",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.46022289555909135
+        },
+        {
+          "symbol": "Ebsus4",
+          "beat_start": 2,
+          "beat_duration": 3,
+          "confidence": 0.45848037656459745
+        }
+      ]
+    },
+    {
+      "measure": 10,
+      "start": 13.746213151927437,
+      "end": 15.232290249433106,
+      "chords": [
+        {
+          "symbol": "Fm",
+          "beat_start": 1,
+          "beat_duration": 3,
+          "confidence": 0.45367235664979283
+        },
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.42625265551032704
+        }
+      ]
+    },
+    {
+      "measure": 11,
+      "start": 15.232290249433106,
+      "end": 16.718367346938777,
+      "chords": [
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.42625265551032704
+        }
+      ]
+    },
+    {
+      "measure": 12,
+      "start": 16.718367346938777,
+      "end": 18.204444444444444,
+      "chords": [
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.42625265551032704
+        },
+        {
+          "symbol": "C#maj7",
+          "beat_start": 2,
+          "beat_duration": 3,
+          "confidence": 0.36007048146256676
+        }
+      ]
+    },
+    {
+      "measure": 13,
+      "start": 18.204444444444444,
+      "end": 19.690521541950112,
+      "chords": [
+        {
+          "symbol": "C#maj7",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.36007048146256676
+        },
+        {
+          "symbol": "Am7b5",
+          "beat_start": 2,
+          "beat_duration": 1,
+          "confidence": 0.38292046502735066
+        },
+        {
+          "symbol": "C7",
+          "beat_start": 3,
+          "beat_duration": 2,
+          "confidence": 0.4284019874872024
+        }
+      ]
+    },
+    {
+      "measure": 14,
+      "start": 19.690521541950112,
+      "end": 21.176598639455783,
+      "chords": [
+        {
+          "symbol": "C7",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.4284019874872024
+        },
+        {
+          "symbol": "Cadd9",
+          "beat_start": 2,
+          "beat_duration": 3,
+          "confidence": 0.3755528352233794
+        }
+      ]
+    },
+    {
+      "measure": 15,
+      "start": 21.176598639455783,
+      "end": 22.66267573696145,
+      "chords": [
+        {
+          "symbol": "Cadd9",
+          "beat_start": 1,
+          "beat_duration": 3,
+          "confidence": 0.3755528352233794
+        },
+        {
+          "symbol": "Cm7",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.4203165698223512
+        }
+      ]
+    },
+    {
+      "measure": 16,
+      "start": 22.66267573696145,
+      "end": 24.14875283446712,
+      "chords": [
+        {
+          "symbol": "Cm7",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.4203165698223512
+        },
+        {
+          "symbol": "C#maj7",
+          "beat_start": 2,
+          "beat_duration": 3,
+          "confidence": 0.3891099939609086
+        }
+      ]
+    },
+    {
+      "measure": 17,
+      "start": 24.14875283446712,
+      "end": 25.63482993197279,
+      "chords": [
+        {
+          "symbol": "Am7b5",
+          "beat_start": 1,
+          "beat_duration": 3,
+          "confidence": 0.4061888380778653
+        },
+        {
+          "symbol": "C#maj7",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.40839827880584667
+        }
+      ]
+    },
+    {
+      "measure": 18,
+      "start": 25.63482993197279,
+      "end": 27.12090702947846,
+      "chords": [
+        {
+          "symbol": "C#maj7",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.40839827880584667
+        },
+        {
+          "symbol": "Fsus4",
+          "beat_start": 2,
+          "beat_duration": 2,
+          "confidence": 0.43554790669650617
+        },
+        {
+          "symbol": "C#maj7",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.38148808166383125
+        }
+      ]
+    },
+    {
+      "measure": 19,
+      "start": 27.12090702947846,
+      "end": 28.606984126984127,
+      "chords": [
+        {
+          "symbol": "C#maj7",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.38148808166383125
+        },
+        {
+          "symbol": "C7",
+          "beat_start": 2,
+          "beat_duration": 2,
+          "confidence": 0.40866704968732614
+        },
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.41843686809597935
+        }
+      ]
+    },
+    {
+      "measure": 20,
+      "start": 28.606984126984127,
+      "end": 30.093061224489794,
+      "chords": [
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.41469688377079555
+        }
+      ]
+    },
+    {
+      "measure": 21,
+      "start": 30.093061224489794,
+      "end": 31.672018140589568,
+      "chords": [
+        {
+          "symbol": "C7",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.3910096636993152
+        }
+      ]
+    },
+    {
+      "measure": 22,
+      "start": 31.672018140589568,
+      "end": 33.25097505668934,
+      "chords": [
+        {
+          "symbol": "C7",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.3910096636993152
+        },
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 2,
+          "beat_duration": 2,
+          "confidence": 0.4081477311089471
+        },
+        {
+          "symbol": "Cadd9",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.3825854998980304
+        }
+      ]
+    },
+    {
+      "measure": 23,
+      "start": 33.25097505668934,
+      "end": 34.73705215419501,
+      "chords": [
+        {
+          "symbol": "Fmaj7",
+          "beat_start": 1,
+          "beat_duration": 3,
+          "confidence": 0.4513573627152003
+        },
+        {
+          "symbol": "Fm7",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.4474188342364478
+        }
+      ]
+    },
+    {
+      "measure": 24,
+      "start": 34.73705215419501,
+      "end": 36.22312925170068,
+      "chords": [
+        {
+          "symbol": "Fm7",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.44528404313045344
+        }
+      ]
+    },
+    {
+      "measure": 25,
+      "start": 36.22312925170068,
+      "end": 37.802086167800454,
+      "chords": [
+        {
+          "symbol": "Fm7",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.4388796698124705
+        }
+      ]
+    },
+    {
+      "measure": 26,
+      "start": 37.802086167800454,
+      "end": 39.288163265306125,
+      "chords": [
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 1,
+          "beat_duration": 2,
+          "confidence": 0.42796617012831256
+        },
+        {
+          "symbol": "Abadd9",
+          "beat_start": 3,
+          "beat_duration": 2,
+          "confidence": 0.4365620585313598
+        }
+      ]
+    },
+    {
+      "measure": 27,
+      "start": 39.288163265306125,
+      "end": 40.77424036281179,
+      "chords": [
+        {
+          "symbol": "C#maj7",
+          "beat_start": 1,
+          "beat_duration": 2,
+          "confidence": 0.3710637257560678
+        },
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 3,
+          "beat_duration": 2,
+          "confidence": 0.4181320750259319
+        }
+      ]
+    },
+    {
+      "measure": 28,
+      "start": 40.77424036281179,
+      "end": 42.26031746031746,
+      "chords": [
+        {
+          "symbol": "Fm",
+          "beat_start": 1,
+          "beat_duration": 2,
+          "confidence": 0.4667675541878409
+        },
+        {
+          "symbol": "Fm7",
+          "beat_start": 3,
+          "beat_duration": 1,
+          "confidence": 0.45053027901457743
+        },
+        {
+          "symbol": "C#maj7",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.35943911713380106
+        }
+      ]
+    },
+    {
+      "measure": 29,
+      "start": 42.26031746031746,
+      "end": 43.74639455782313,
+      "chords": [
+        {
+          "symbol": "C#maj7",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.35943911713380106
+        },
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 2,
+          "beat_duration": 1,
+          "confidence": 0.40818695223043644
+        },
+        {
+          "symbol": "Fm",
+          "beat_start": 3,
+          "beat_duration": 2,
+          "confidence": 0.4184701812868127
+        }
+      ]
+    },
+    {
+      "measure": 30,
+      "start": 43.74639455782313,
+      "end": 45.3253514739229,
+      "chords": [
+        {
+          "symbol": "Fm",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.4184701812868127
+        },
+        {
+          "symbol": "C#maj7",
+          "beat_start": 2,
+          "beat_duration": 3,
+          "confidence": 0.37995127807486445
+        }
+      ]
+    },
+    {
+      "measure": 31,
+      "start": 45.3253514739229,
+      "end": 46.81142857142857,
+      "chords": [
+        {
+          "symbol": "Fadd9",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.4541250036235094
+        }
+      ]
+    },
+    {
+      "measure": 32,
+      "start": 46.81142857142857,
+      "end": 48.39038548752834,
+      "chords": [
+        {
+          "symbol": "Fadd9",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.4541250036235094
+        },
+        {
+          "symbol": "Fm7",
+          "beat_start": 2,
+          "beat_duration": 3,
+          "confidence": 0.4212648745810028
+        }
+      ]
+    },
+    {
+      "measure": 33,
+      "start": 48.39038548752834,
+      "end": 49.87646258503401,
+      "chords": [
+        {
+          "symbol": "Am7b5",
+          "beat_start": 1,
+          "beat_duration": 3,
+          "confidence": 0.4000470804568426
+        },
+        {
+          "symbol": "Fm",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.4641890505490552
+        }
+      ]
+    },
+    {
+      "measure": 34,
+      "start": 49.87646258503401,
+      "end": 51.36253968253968,
+      "chords": [
+        {
+          "symbol": "Fm",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.4641890505490552
+        },
+        {
+          "symbol": "Cmaj7",
+          "beat_start": 2,
+          "beat_duration": 2,
+          "confidence": 0.45442710695267463
+        },
+        {
+          "symbol": "Cadd9",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.3776856244769398
+        }
+      ]
+    },
+    {
+      "measure": 35,
+      "start": 51.36253968253968,
+      "end": 52.848616780045354,
+      "chords": [
+        {
+          "symbol": "C#maj7",
+          "beat_start": 1,
+          "beat_duration": 2,
+          "confidence": 0.36132725785572817
+        },
+        {
+          "symbol": "Fm7",
+          "beat_start": 3,
+          "beat_duration": 2,
+          "confidence": 0.39845497704957866
+        }
+      ]
+    },
+    {
+      "measure": 36,
+      "start": 52.848616780045354,
+      "end": 54.33469387755102,
+      "chords": [
+        {
+          "symbol": "C#maj7",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.3617018505279783
+        }
+      ]
+    },
+    {
+      "measure": 37,
+      "start": 54.33469387755102,
+      "end": 55.913650793650795,
+      "chords": [
+        {
+          "symbol": "C#maj7",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.3617018505279783
+        },
+        {
+          "symbol": "Fm",
+          "beat_start": 2,
+          "beat_duration": 3,
+          "confidence": 0.4572284867058305
+        }
+      ]
+    },
+    {
+      "measure": 38,
+      "start": 55.913650793650795,
+      "end": 57.39972789115646,
+      "chords": [
+        {
+          "symbol": "Fm",
+          "beat_start": 1,
+          "beat_duration": 3,
+          "confidence": 0.4572284867058305
+        },
+        {
+          "symbol": "C#maj7",
+          "beat_start": 4,
+          "beat_duration": 1,
+          "confidence": 0.3557961691892924
+        }
+      ]
+    },
+    {
+      "measure": 39,
+      "start": 57.39972789115646,
+      "end": 58.88580498866213,
+      "chords": [
+        {
+          "symbol": "C#maj7",
+          "beat_start": 1,
+          "beat_duration": 1,
+          "confidence": 0.3557961691892924
+        },
+        {
+          "symbol": "Fm7",
+          "beat_start": 2,
+          "beat_duration": 1,
+          "confidence": 0.43909917344808164
+        },
+        {
+          "symbol": "Fm",
+          "beat_start": 3,
+          "beat_duration": 2,
+          "confidence": 0.4186526270423386
+        }
+      ]
+    },
+    {
+      "measure": 40,
+      "start": 58.88580498866213,
+      "end": 60.3718820861678,
+      "chords": [
+        {
+          "symbol": "Fm",
+          "beat_start": 1,
+          "beat_duration": 2,
+          "confidence": 0.4186526270423386
+        },
+        {
+          "symbol": "Fm7",
+          "beat_start": 3,
+          "beat_duration": 2,
+          "confidence": 0.3968602901626606
+        }
+      ]
+    },
+    {
+      "measure": 41,
+      "start": 60.3718820861678,
+      "end": 61.85795918367347,
+      "chords": [
+        {
+          "symbol": "Fm",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.4513262092774596
+        }
+      ]
+    }
+  ]
+}

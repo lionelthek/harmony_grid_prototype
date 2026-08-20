@@ -1,0 +1,165 @@
+{
+  "source_file": "test_progression.wav",
+  "duration": 16.0,
+  "analysis": {
+    "tempo": 120.0,
+    "meter": "4/4",
+    "key_guess": "C minor"
+  },
+  "chord_segments": [
+    {
+      "start": 0.0,
+      "end": 2.043356009070295,
+      "symbol": "Cm",
+      "confidence": 0.5670310857938826
+    },
+    {
+      "start": 2.043356009070295,
+      "end": 4.08671201814059,
+      "symbol": "Am",
+      "confidence": 0.5784783311283519
+    },
+    {
+      "start": 4.08671201814059,
+      "end": 6.03718820861678,
+      "symbol": "F",
+      "confidence": 0.5653607558391658
+    },
+    {
+      "start": 6.03718820861678,
+      "end": 8.080544217687075,
+      "symbol": "G7",
+      "confidence": 0.6004705325079992
+    },
+    {
+      "start": 8.080544217687075,
+      "end": 10.031020408163265,
+      "symbol": "Cm",
+      "confidence": 0.567032069380827
+    },
+    {
+      "start": 10.031020408163265,
+      "end": 12.07437641723356,
+      "symbol": "Am",
+      "confidence": 0.5784787086562477
+    },
+    {
+      "start": 12.07437641723356,
+      "end": 14.02485260770975,
+      "symbol": "F",
+      "confidence": 0.565360304617557
+    },
+    {
+      "start": 14.02485260770975,
+      "end": 16.0,
+      "symbol": "G7",
+      "confidence": 0.6004752124219587
+    }
+  ],
+  "grid": [
+    {
+      "measure": 1,
+      "start": 0.0,
+      "end": 2.0,
+      "chords": [
+        {
+          "symbol": "Cm",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.5670310857938826
+        }
+      ]
+    },
+    {
+      "measure": 2,
+      "start": 2.0,
+      "end": 4.0,
+      "chords": [
+        {
+          "symbol": "Am",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.5784783311283519
+        }
+      ]
+    },
+    {
+      "measure": 3,
+      "start": 4.0,
+      "end": 6.0,
+      "chords": [
+        {
+          "symbol": "F",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.5653607558391658
+        }
+      ]
+    },
+    {
+      "measure": 4,
+      "start": 6.0,
+      "end": 8.0,
+      "chords": [
+        {
+          "symbol": "G7",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.6004705325079992
+        }
+      ]
+    },
+    {
+      "measure": 5,
+      "start": 8.0,
+      "end": 10.0,
+      "chords": [
+        {
+          "symbol": "Cm",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.567032069380827
+        }
+      ]
+    },
+    {
+      "measure": 6,
+      "start": 10.0,
+      "end": 12.0,
+      "chords": [
+        {
+          "symbol": "Am",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.5784787086562477
+        }
+      ]
+    },
+    {
+      "measure": 7,
+      "start": 12.0,
+      "end": 14.0,
+      "chords": [
+        {
+          "symbol": "F",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.565360304617557
+        }
+      ]
+    },
+    {
+      "measure": 8,
+      "start": 14.0,
+      "end": 16.0,
+      "chords": [
+        {
+          "symbol": "G7",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "confidence": 0.6004752124219587
+        }
+      ]
+    }
+  ]
+}
