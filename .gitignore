@@ -1,2 +1,4 @@
 # ShipStudio metadata
 .shipstudio/
+.vercel
+.env*
